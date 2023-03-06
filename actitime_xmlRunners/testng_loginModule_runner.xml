@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Default Suite" guice-stage="DEVELOPMENT" parallel="tests" thread-count="5">
+  <listeners>
+    <listener class-name="com.envision.actitime.listeners.TestListener"/>
+    <listener class-name="com.envision.actitime.listeners.AnnotationTransformer"/>
+  </listeners>
+  <test thread-count="5" name="v3">
+    <parameter name="browser_name_to_execute" value=""/>
+    <parameter name="execution_mode" value=""/>
+    <classes>
+      <class name="com.envision.actitime.testRunner.LoginTestRunnerWithSmallDataProvider">
+        <methods>
+          <include name="verifyValidLoginTest2"/>
+          <include name="verifyInvalidLoginTest2"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+  <test thread-count="5" name="v4">
+    <parameter name="browser_name_to_execute" value=""/>
+    <parameter name="execution_mode" value=""/>
+    <classes>
+      <class name="com.envision.actitime.testRunner.LoginTestRunnerWithSmallDataProvider">
+        <methods>
+          <include name="verifyValidLoginTest2"/>
+          <include name="verifyInvalidLoginTest2"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite> <!-- Default Suite -->

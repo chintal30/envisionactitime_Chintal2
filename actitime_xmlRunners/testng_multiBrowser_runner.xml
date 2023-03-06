@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Default Suite" guice-stage="DEVELOPMENT" parallel="tests" thread-count="5">
+
+    <test thread-count="5" name="m11"><!-- Changing a name here is very important -->
+        <parameter name="browser_name_to_execute" value="edge"/>
+        <parameter name="execution_mode" value="active"/>
+        <classes>
+            <class name="com.envision.actitime.testRunner.LoginTestRunnerWithSmallDataProvider">
+                <methods>
+                    <include name="verifyValidLoginTest2"/>
+                    <include name="verifyInvalidLoginTest2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test thread-count="5" name="mv2"><!--  Changing a name here is very important -->
+        <parameter name="browser_name_to_execute" value="firefox"/>
+        <parameter name="execution_mode" value="active"/>
+        <classes>
+            <class name="com.envision.actitime.testRunner.LoginTestRunnerWithExcelDataProvider">
+                <methods>
+                    <include name="verifyValidLoginTest3"/>
+                    <include name="verifyInvalidLoginTest3"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite> <!-- Default Suite -->

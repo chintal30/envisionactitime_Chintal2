@@ -1,0 +1,88 @@
+[INFO ] 2023-02-27 13:03:06.713 [TestNG-tests-1] Log - Tests is starting!
+[INFO ] 2023-02-27 13:03:07.513 [TestNG-tests-1] Log - Tests is starting!
+[INFO ] 2023-02-27 13:03:23.377 [TestNG-tests-1] Log - Tests are ending!
+[INFO ] 2023-02-27 13:03:25.698 [TestNG-tests-1] Log - Tests are ending!
+[INFO ] 2023-02-27 13:05:08.595 [TestNG-tests-1] Log - I am in onStart method v3
+[INFO ] 2023-02-27 13:05:08.614 [TestNG-tests-1] Log - Tests is starting!
+[INFO ] 2023-02-27 13:05:11.357 [TestNG-tests-1] Log - verifyValidLoginTest2 test is starting.
+[INFO ] 2023-02-27 13:05:14.473 [TestNG-tests-1] Log - verifyValidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 13:05:14.594 [TestNG-tests-1] Log - verifyValidLoginTest2 test is failed.
+[INFO ] 2023-02-27 13:05:14.729 [TestNG-tests-1] Log - I am in onFinish method v3
+[INFO ] 2023-02-27 13:08:43.971 [TestNG-tests-1] Log - I am in onStart method v3
+[INFO ] 2023-02-27 13:08:43.988 [TestNG-tests-1] Log - Tests is starting!
+[INFO ] 2023-02-27 13:08:46.456 [TestNG-tests-1] Log - verifyValidLoginTest2 test is starting.
+[INFO ] 2023-02-27 13:08:49.574 [TestNG-tests-1] Log - verifyValidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 13:08:49.676 [TestNG-tests-1] Log - verifyValidLoginTest2 test is failed.
+[INFO ] 2023-02-27 13:08:49.805 [TestNG-tests-1] Log - I am in onFinish method v3
+[INFO ] 2023-02-27 13:09:16.043 [TestNG-tests-1] Log - I am in onStart method v3
+[INFO ] 2023-02-27 13:09:16.060 [TestNG-tests-1] Log - Tests is starting!
+[INFO ] 2023-02-27 13:09:18.404 [TestNG-tests-1] Log - verifyValidLoginTest2 test is starting.
+[INFO ] 2023-02-27 13:09:21.530 [TestNG-tests-1] Log - verifyValidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 13:09:21.630 [TestNG-tests-1] Log - verifyValidLoginTest2 test is failed.
+[INFO ] 2023-02-27 13:09:21.771 [TestNG-tests-1] Log - I am in onFinish method v3
+[INFO ] 2023-02-27 13:11:30.895 [TestNG-tests-1] Log - I am in onStart method v3
+[INFO ] 2023-02-27 13:11:30.912 [TestNG-tests-1] Log - Tests is starting!
+[INFO ] 2023-02-27 13:11:33.391 [TestNG-tests-1] Log - verifyValidLoginTest2 test is starting.
+[INFO ] 2023-02-27 13:11:36.518 [TestNG-tests-1] Log - verifyValidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 13:11:36.625 [TestNG-tests-1] Log - verifyValidLoginTest2 test is failed.
+[INFO ] 2023-02-27 13:11:36.771 [TestNG-tests-1] Log - I am in onFinish method v3
+[INFO ] 2023-02-27 13:29:27.914 [TestNG-tests-1] Log - I am in onStart method v3
+[INFO ] 2023-02-27 13:29:27.931 [TestNG-tests-1] Log - Tests is starting!
+[INFO ] 2023-02-27 13:29:30.383 [TestNG-tests-1] Log - verifyValidLoginTest2 test is starting.
+[INFO ] 2023-02-27 13:29:33.498 [TestNG-tests-1] Log - verifyValidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 13:29:33.598 [TestNG-tests-1] Log - verifyValidLoginTest2 test is failed.
+[INFO ] 2023-02-27 13:29:33.599 [TestNG-tests-1] Log - I am in onFinish method v3
+[INFO ] 2023-02-27 13:33:30.474 [TestNG-tests-1] Log - I am in onStart method v3
+[INFO ] 2023-02-27 13:33:30.492 [TestNG-tests-1] Log - Tests is starting!
+[INFO ] 2023-02-27 13:33:32.972 [TestNG-tests-1] Log - verifyValidLoginTest2 test is starting.
+[INFO ] 2023-02-27 13:33:36.097 [TestNG-tests-1] Log - verifyValidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 13:33:36.203 [TestNG-tests-1] Log - verifyValidLoginTest2 test is failed.
+[INFO ] 2023-02-27 13:33:36.203 [TestNG-tests-1] Log - I am in onFinish method v3
+[INFO ] 2023-02-27 13:35:07.306 [TestNG-tests-1] Log - I am in onStart method v3
+[INFO ] 2023-02-27 13:35:07.324 [TestNG-tests-1] Log - Tests is starting!
+[INFO ] 2023-02-27 13:35:09.749 [TestNG-tests-1] Log - verifyValidLoginTest2 test is starting.
+[INFO ] 2023-02-27 13:35:12.874 [TestNG-tests-1] Log - verifyValidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 13:35:12.975 [TestNG-tests-1] Log - verifyValidLoginTest2 test is failed.
+[INFO ] 2023-02-27 13:35:12.975 [TestNG-tests-1] Log - I am in onFinish method v3
+[INFO ] 2023-02-27 13:36:29.963 [TestNG-tests-1] Log - I am in onStart method v3
+[INFO ] 2023-02-27 13:36:29.982 [TestNG-tests-1] Log - Tests is starting!
+[INFO ] 2023-02-27 13:36:32.352 [TestNG-tests-1] Log - verifyValidLoginTest2 test is starting.
+[INFO ] 2023-02-27 13:36:35.477 [TestNG-tests-1] Log - verifyValidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 13:36:35.571 [TestNG-tests-1] Log - verifyValidLoginTest2 test is failed.
+[INFO ] 2023-02-27 13:36:35.572 [TestNG-tests-1] Log - I am in onFinish method v3
+[INFO ] 2023-02-27 14:07:00.142 [TestNG-tests-1] Log - I am in onStart method v3
+[INFO ] 2023-02-27 14:07:00.157 [TestNG-tests-1] Log - Tests is starting!
+[INFO ] 2023-02-27 14:07:03.053 [TestNG-tests-1] Log - verifyValidLoginTest2 test is starting.
+[INFO ] 2023-02-27 14:07:06.269 [TestNG-tests-1] Log - verifyValidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 14:07:08.266 [TestNG-tests-1] Log - verifyValidLoginTest2 test is starting.
+[INFO ] 2023-02-27 14:07:11.382 [TestNG-tests-1] Log - verifyValidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 14:07:13.302 [TestNG-tests-1] Log - verifyInvalidLoginTest2 test is starting.
+[INFO ] 2023-02-27 14:07:13.723 [TestNG-tests-1] Log - verifyInvalidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 14:07:15.886 [TestNG-tests-1] Log - verifyInvalidLoginTest2 test is starting.
+[INFO ] 2023-02-27 14:07:16.309 [TestNG-tests-1] Log - verifyInvalidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 14:07:16.426 [TestNG-tests-1] Log - Tests are ending!
+[INFO ] 2023-02-27 14:07:16.427 [TestNG-tests-1] Log - I am in onFinish method v3
+[INFO ] 2023-02-27 14:11:59.749 [TestNG-tests-1] Log - I am in onStart method v3
+[INFO ] 2023-02-27 14:11:59.749 [TestNG-tests-2] Log - I am in onStart method v4
+[INFO ] 2023-02-27 14:11:59.765 [TestNG-tests-2] Log - Tests is starting!
+[INFO ] 2023-02-27 14:11:59.765 [TestNG-tests-1] Log - Tests is starting!
+[INFO ] 2023-02-27 14:12:02.540 [TestNG-tests-1] Log - verifyValidLoginTest2 test is starting.
+[INFO ] 2023-02-27 14:12:02.784 [TestNG-tests-2] Log - verifyValidLoginTest2 test is starting.
+[INFO ] 2023-02-27 14:12:05.808 [TestNG-tests-1] Log - verifyValidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 14:12:05.915 [TestNG-tests-2] Log - verifyValidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 14:12:08.070 [TestNG-tests-1] Log - verifyValidLoginTest2 test is starting.
+[INFO ] 2023-02-27 14:12:08.482 [TestNG-tests-2] Log - verifyValidLoginTest2 test is starting.
+[INFO ] 2023-02-27 14:12:11.193 [TestNG-tests-1] Log - verifyValidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 14:12:11.613 [TestNG-tests-2] Log - verifyValidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 14:12:13.255 [TestNG-tests-1] Log - verifyInvalidLoginTest2 test is starting.
+[INFO ] 2023-02-27 14:12:13.637 [TestNG-tests-2] Log - verifyInvalidLoginTest2 test is starting.
+[INFO ] 2023-02-27 14:12:13.733 [TestNG-tests-1] Log - verifyInvalidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 14:12:14.110 [TestNG-tests-2] Log - verifyInvalidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 14:12:15.802 [TestNG-tests-1] Log - verifyInvalidLoginTest2 test is starting.
+[INFO ] 2023-02-27 14:12:16.152 [TestNG-tests-2] Log - verifyInvalidLoginTest2 test is starting.
+[INFO ] 2023-02-27 14:12:16.310 [TestNG-tests-1] Log - verifyInvalidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 14:12:16.389 [TestNG-tests-1] Log - Tests are ending!
+[INFO ] 2023-02-27 14:12:16.390 [TestNG-tests-1] Log - I am in onFinish method v3
+[INFO ] 2023-02-27 14:12:16.613 [TestNG-tests-2] Log - verifyInvalidLoginTest2 test is succeed.
+[INFO ] 2023-02-27 14:12:16.737 [TestNG-tests-2] Log - Tests are ending!
+[INFO ] 2023-02-27 14:12:16.737 [TestNG-tests-2] Log - I am in onFinish method v4
